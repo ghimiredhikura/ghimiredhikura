@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Research Professor in [Soongsil University, South Korea](https://eng.ssu.ac.kr/). 
-- 👯 I’m looking to collaborate on lightweight deep learning based research. 
-- 📧 ghmdeepak@gmail.com, deepakghm@hotmail.com, deep@jbnu.ac.kr
+- 👯 I’m looking to collaborate on lightweight deep learning (model compression) based research. 
 
 ---
 
@@ -24,10 +23,10 @@
 
 ---
 
-### You can reach me on 📫 
+### You can also reach me on 📫 
 
 [<img align="left" alt="Deepak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ghimire2421/)
-[<img align="left" alt="Deepak | Github" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/ghimiredhikura)  
+[<img align="left" alt="Deepak | Github" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/ghimiredhikura) <a href="mailto:emersonpess011108@gmail.com?"><img align="left" alt="Deepak | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/></a>
 
 <br />
 
