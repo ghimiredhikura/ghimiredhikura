@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working as a Research Professor in [Soongsil University, South Korea](https://eng.ssu.ac.kr/). 
 - 👯 I’m looking to collaborate on lightweight deep learning based research. 
+- 📧 ghmdeepak@gmail.com, deepakghm@hotmail.com, deep@jbnu.ac.kr
+
 ---
 
 ### Languages and tools 💬
