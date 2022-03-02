@@ -23,10 +23,6 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liuguoyou&repo=Towards-Compact-CNNs-via-Collaborative-Compression)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### You can also reach me on 📫 
 
 [<img align="left" alt="Deepak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ghimire2421/)
